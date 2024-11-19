@@ -1,6 +1,6 @@
 en: &DEFAULT_EN
   header:
-    title: bienvenido a mi sitio 
+    title: bienvenido al sitio de Hafsa sobre Deporte
     text: espero que te gustará !
     button: más
     buttonlink: "#services"
@@ -10,21 +10,26 @@ en: &DEFAULT_EN
     text: "posts"
     section: services
     list:
-      - title: "pagina de github de Hafsa"
+      - title: "Pagina de github de Hafsa"
         desc: "mi pagina en github"
         icon: fab fa-github
-      - url: https://twitter.com
-        icon: fab fa-twitter
-        desc: "mi twiter"
-      - url: https://facebook.com
-        icon: fab fa-facebook-f
-        desc: "mi cuenta de facebook"
-      - url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
+        url: https://github.com/Hafsa-Katkout
+      - title: "Mi linkedin"
         icon: fab fa-linkedin-in
         desc: "mi cuenta en linkedin"
-      - url: https://instagram.com
+        url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
+      - title: "Twiter"
+        icon: fab fa-twitter
+        desc: "mi twiter"
+        url: https://support.microsoft.com/es-es/office/usar-el-elemento-web-twitter-15db6b3b-d167-41dd-9875-2af64b44d820
+      - title: "Facebook"  
+        icon: fab fa-facebook-f
+        desc: "Cuenta de facebook"
+        url: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Des_ES
+      - title: "Instagram"
         icon: fab fa-instagram
         desc: "mi instagram"
+        url: https://instagram.com
 
   portfolio:
     title: "publicaciones"
@@ -71,12 +76,16 @@ en: &DEFAULT_EN
   about:
     title: "sobre mí"
     text: "Hafsa Katkout Aabil"
+    desc: "¡Hola! Soy **Hafsa Katkout Aabil**, estudiante de **ASIR** en su segundo año, y apasionada por la informática y la tecnología. Mi interés por el mundo digital me ha llevado a enfocarme en áreas como **la ciberseguridad**, **administración de sistemas**, **redes** y **bases de datos**.
+
+A través de mis estudios y proyectos, busco aprender y crecer en el mundo de la tecnología para aportar valor a las empresas y sus sistemas."
     section: about
 
   clients:
+    title: "mis clientes"
     section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    max-height: 1000px
+    horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "github"
         url: https://github.com/Hafsa-Katkout
@@ -85,7 +94,6 @@ en: &DEFAULT_EN
   team:
     title: "mi equipo aúnque soy sola ! "
     text: "presentación"
-    subtext: breve presentacion
     section: team
     people:
       - name: "Hafsa Katkout Aabil"
@@ -139,24 +147,29 @@ es: &DEFAULT_ES
 
   services:
     title: "Servicios"
-    text: "mi github"
+    text: "posts"
     section: services
     list:
-      - title: "pagina de github de Hafsa"
+      - title: "Pagina de github de Hafsa"
         desc: "mi pagina en github"
         icon: fab fa-github
-      - url: https://twitter.com
-        icon: fab fa-twitter
-        desc: "mi twiter"
-      - url: https://facebook.com
-        icon: fab fa-facebook-f
-        desc: "mi cuenta de facebook"
-      - url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
+        url: https://github.com/Hafsa-Katkout
+      - title: "Mi linkedin"
         icon: fab fa-linkedin-in
         desc: "mi cuenta en linkedin"
-      - url: https://instagram.com
+        url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
+      - title: "Twiter"
+        icon: fab fa-twitter
+        desc: "mi twiter"
+        url: https://support.microsoft.com/es-es/office/usar-el-elemento-web-twitter-15db6b3b-d167-41dd-9875-2af64b44d820
+      - title: "Facebook"  
+        icon: fab fa-facebook-f
+        desc: "Cuenta de facebook"
+        url: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Des_ES
+      - title: "Instagram"
         icon: fab fa-instagram
         desc: "mi instagram"
+        url: https://instagram.com
 
   portfolio:
     title: "publicaciones"
