@@ -15,12 +15,16 @@ en: &DEFAULT_EN
         icon: fab fa-github
       - url: https://twitter.com
         icon: fab fa-twitter
+        desc: "mi twiter"
       - url: https://facebook.com
         icon: fab fa-facebook-f
+        desc: "mi cuenta de facebook"
       - url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
         icon: fab fa-linkedin-in
+        desc: "mi cuenta en linkedin"
       - url: https://instagram.com
         icon: fab fa-instagram
+        desc: "mi instagram"
 
   portfolio:
     title: "publicaciones"
@@ -138,9 +142,21 @@ es: &DEFAULT_ES
     text: "mi github"
     section: services
     list:
-      - title: "pagina de github"
+      - title: "pagina de github de Hafsa"
         desc: "mi pagina en github"
         icon: fab fa-github
+      - url: https://twitter.com
+        icon: fab fa-twitter
+        desc: "mi twiter"
+      - url: https://facebook.com
+        icon: fab fa-facebook-f
+        desc: "mi cuenta de facebook"
+      - url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
+        icon: fab fa-linkedin-in
+        desc: "mi cuenta en linkedin"
+      - url: https://instagram.com
+        icon: fab fa-instagram
+        desc: "mi instagram"
 
   portfolio:
     title: "publicaciones"
