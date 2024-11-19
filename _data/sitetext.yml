@@ -12,7 +12,7 @@ en: &DEFAULT_EN
     list:
       - title: "pagina de github"
         desc: "mi pagina en github"
-        icon: https://github.com/Hafsa-Katkout
+        icon: fab fa-github
 
   portfolio:
     title: "publicaciones"
@@ -132,7 +132,7 @@ es: &DEFAULT_ES
       list:
       - title: "pagina de github"
         desc: "mi pagina en github"
-        icon: https://github.com/Hafsa-Katkout
+        icon: fab fa-github
 
   portfolio:
     title: "publicaciones"
