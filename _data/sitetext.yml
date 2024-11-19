@@ -10,9 +10,17 @@ en: &DEFAULT_EN
     text: "posts"
     section: services
     list:
-      - title: "pagina de github"
+      - title: "pagina de github de Hafsa"
         desc: "mi pagina en github"
         icon: fab fa-github
+      - url: https://twitter.com
+        icon: fab fa-twitter
+      - url: https://facebook.com
+        icon: fab fa-facebook-f
+      - url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
+        icon: fab fa-linkedin-in
+      - url: https://instagram.com
+        icon: fab fa-instagram
 
   portfolio:
     title: "publicaciones"
