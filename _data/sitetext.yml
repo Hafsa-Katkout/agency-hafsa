@@ -54,7 +54,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "espera las nuevas publicaciones!"
+    end: "espera las nuevas publicaciones de Hafsa!"
 
   about:
     title: "sobre mí"
@@ -120,14 +120,14 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: bienvenido a mi sitio 
+    title: bienvenido al sitio de Hafsa 
     text: espero que te gustará !
     button: más
     buttonlink: "#services"
 
   services:
     title: "Servicios"
-    text: "posts"
+    text: "mi github"
     section: services
     list:
       - title: "pagina de github"
