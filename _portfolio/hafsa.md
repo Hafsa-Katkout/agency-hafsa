@@ -1,12 +1,12 @@
 ---
-title: Montar Caballo
-subtitle: ¡Supera tus límites y alcanza nuevas metas!
+title: sobre mí
+subtitle: mi presentación
 image: assets/img/portfolio/hafsa.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Montar Caballo
-  subtitle: ¡Siente la adrenalina en cada movimiento!
+  title: sobre mí
+  subtitle: una breve presentación
   thumbnail: assets/img/portfolio/hafsa.jpg
 ---
 # Sobre Mí

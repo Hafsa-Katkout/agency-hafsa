@@ -7,29 +7,24 @@ en: &DEFAULT_EN
 
   services:
     title: "Servicios"
-    text: "posts"
+    text: "ejemplos"
     section: services
     list:
       - title: "Pagina de github de Hafsa"
-        desc: "mi pagina en github"
         icon: fab fa-github
-        url: https://github.com/Hafsa-Katkout
+        desc: https://github.com/Hafsa-Katkout
       - title: "Mi linkedin"
         icon: fab fa-linkedin-in
-        desc: "mi cuenta en linkedin"
-        url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
+        desc: www.linkedin.com/in/hafsa-katkout-aabil-722291305
       - title: "Twiter"
         icon: fab fa-twitter
-        desc: "mi twiter"
-        url: https://support.microsoft.com/es-es/office/usar-el-elemento-web-twitter-15db6b3b-d167-41dd-9875-2af64b44d820
+        desc: https://support.microsoft.com/es-es/office/usar-el-elemento-web-twitter-15db6b3b-d167-41dd-9875-2af64b44d820
       - title: "Facebook"  
         icon: fab fa-facebook-f
-        desc: "Cuenta de facebook"
-        url: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Des_ES
+        desc: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Des_ES
       - title: "Instagram"
         icon: fab fa-instagram
-        desc: "mi instagram"
-        url: https://instagram.com
+        desc: https://instagram.com
 
   portfolio:
     title: "publicaciones"
@@ -76,9 +71,8 @@ en: &DEFAULT_EN
   about:
     title: "sobre mí"
     text: "Hafsa Katkout Aabil"
-    desc: "¡Hola! Soy **Hafsa Katkout Aabil**, estudiante de **ASIR** en su segundo año, y apasionada por la informática y la tecnología. Mi interés por el mundo digital me ha llevado a enfocarme en áreas como **la ciberseguridad**, **administración de sistemas**, **redes** y **bases de datos**.
-
-A través de mis estudios y proyectos, busco aprender y crecer en el mundo de la tecnología para aportar valor a las empresas y sus sistemas."
+    desc: "¡Hola! Soy Hafsa Katkout Aabil, estudiante de ASIR en su segundo año, y apasionada por la informática y la tecnología. Mi interés por el mundo digital me ha llevado a enfocarme en áreas como la ciberseguridad, administración de sistemas, redes y bases de datos.
+          A través de mis estudios y proyectos, busco aprender y crecer en el mundo de la tecnología para aportar valor a las empresas y sus sistemas."
     section: about
 
   clients:
@@ -140,36 +134,31 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: bienvenido al sitio de Hafsa 
+    title: bienvenido al sitio de Hafsa sobre Deporte
     text: espero que te gustará !
     button: más
     buttonlink: "#services"
 
   services:
     title: "Servicios"
-    text: "posts"
+    text: "ejemplos"
     section: services
     list:
       - title: "Pagina de github de Hafsa"
-        desc: "mi pagina en github"
         icon: fab fa-github
-        url: https://github.com/Hafsa-Katkout
+        desc: https://github.com/Hafsa-Katkout
       - title: "Mi linkedin"
         icon: fab fa-linkedin-in
-        desc: "mi cuenta en linkedin"
-        url: www.linkedin.com/in/hafsa-katkout-aabil-722291305
+        desc: www.linkedin.com/in/hafsa-katkout-aabil-722291305
       - title: "Twiter"
         icon: fab fa-twitter
-        desc: "mi twiter"
-        url: https://support.microsoft.com/es-es/office/usar-el-elemento-web-twitter-15db6b3b-d167-41dd-9875-2af64b44d820
+        desc: https://support.microsoft.com/es-es/office/usar-el-elemento-web-twitter-15db6b3b-d167-41dd-9875-2af64b44d820
       - title: "Facebook"  
         icon: fab fa-facebook-f
-        desc: "Cuenta de facebook"
-        url: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Des_ES
+        desc: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Des_ES
       - title: "Instagram"
         icon: fab fa-instagram
-        desc: "mi instagram"
-        url: https://instagram.com
+        desc: https://instagram.com
 
   portfolio:
     title: "publicaciones"
@@ -216,6 +205,8 @@ es: &DEFAULT_ES
   about:
     title: "sobre mí"
     text: "Hafsa Katkout Aabil"
+    desc: "¡Hola! Soy Hafsa Katkout Aabil, estudiante de ASIR en su segundo año, y apasionada por la informática y la tecnología. Mi interés por el mundo digital me ha llevado a enfocarme en áreas como la ciberseguridad, administración de sistemas, redes y bases de datos.
+          A través de mis estudios y proyectos, busco aprender y crecer en el mundo de la tecnología para aportar valor a las empresas y sus sistemas."
     section: about
 
   clients:
