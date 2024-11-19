@@ -4,5 +4,5 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/ANA.jpg"
-contact-image: "../img/CONTACT.jpg"
+header-image: "../img/CONTACT.jpg"
+contact-image: "../img/ANA.jpg"
