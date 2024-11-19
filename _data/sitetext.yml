@@ -129,7 +129,7 @@ es: &DEFAULT_ES
     title: "Servicios"
     text: "posts"
     section: services
-      list:
+    list:
       - title: "pagina de github"
         desc: "mi pagina en github"
         icon: fab fa-github
