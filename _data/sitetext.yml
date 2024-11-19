@@ -70,8 +70,7 @@ en: &DEFAULT_EN
 
   about:
     title: "sobre mí"
-    text: "Hafsa Katkout Aabil"
-    desc: "¡Hola! Soy Hafsa Katkout Aabil, estudiante de ASIR en su segundo año, y apasionada por la informática y la tecnología. Mi interés por el mundo digital me ha llevado a enfocarme en áreas como la ciberseguridad, administración de sistemas, redes y bases de datos.
+    text: "¡Hola! Soy Hafsa Katkout Aabil, estudiante de ASIR en su segundo año, y apasionada por la informática y la tecnología. Mi interés por el mundo digital me ha llevado a enfocarme en áreas como la ciberseguridad, administración de sistemas, redes y bases de datos.
           A través de mis estudios y proyectos, busco aprender y crecer en el mundo de la tecnología para aportar valor a las empresas y sus sistemas."
     section: about
 
@@ -204,8 +203,7 @@ es: &DEFAULT_ES
 
   about:
     title: "sobre mí"
-    text: "Hafsa Katkout Aabil"
-    desc: "¡Hola! Soy Hafsa Katkout Aabil, estudiante de ASIR en su segundo año, y apasionada por la informática y la tecnología. Mi interés por el mundo digital me ha llevado a enfocarme en áreas como la ciberseguridad, administración de sistemas, redes y bases de datos.
+    text: "¡Hola! Soy Hafsa Katkout Aabil, estudiante de ASIR en su segundo año, y apasionada por la informática y la tecnología. Mi interés por el mundo digital me ha llevado a enfocarme en áreas como la ciberseguridad, administración de sistemas, redes y bases de datos.
           A través de mis estudios y proyectos, busco aprender y crecer en el mundo de la tecnología para aportar valor a las empresas y sus sistemas."
     section: about
 
